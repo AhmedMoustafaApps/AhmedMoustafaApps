@@ -58,10 +58,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMoustafaApps&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMoustafaApps&theme=dark&hide_border=true" alt="GitHub Streak" height="160" />
-</p>
+<br/>
+
+| 🔥 Contribution Streak | ⚡ Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMoustafaApps&theme=dark&hide_border=true" alt="GitHub Streak" height="165" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMoustafaApps&langs_count=8&theme=dark&hide_border=true&count_private=true" alt="Top Languages" height="165" /> |
+
+<br/>
 
 ---
 
