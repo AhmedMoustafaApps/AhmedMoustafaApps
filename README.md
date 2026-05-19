@@ -70,6 +70,9 @@
 
 ## 🤝 Connect with Me
 <p align="left">
+  <a href="https://linkedin.com/in/ahmed-moustafa-a986b4250" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
   <a href="https://discord.gg/2Xhag8k8Pm" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" />
   </a>
