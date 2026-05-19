@@ -1,4 +1,4 @@
-# 🚀 Hi 👋, I'm Ahmed Yousef
+# 🚀 Hi 👋, I'm Ahmed Moustafa
 ### 💻 Full-Stack Mobile & Desktop App Developer
 **Android | iOS | macOS | Windows**
 
@@ -14,7 +14,7 @@
 - 💡 **Problem Solver:** Focused on clean architecture, state management, and delivering seamless user experiences.
 
 👀 **Profile Views:**  
-![Profile views](https://komarev.com/ghpvc/?username=AhmedYousefDev&label=Profile%20views&color=0e75b6&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=AhmedMoustafaApps&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ---
 
@@ -51,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYousefDev&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedYousefDev&theme=dark&hide_border=true" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMoustafaApps&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMoustafaApps&theme=dark&hide_border=true" alt="GitHub Streak" height="160" />
 </p>
 
 ---
