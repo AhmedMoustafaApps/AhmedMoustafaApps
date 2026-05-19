@@ -1,6 +1,6 @@
 # 🚀 Hi 👋, I'm Ahmed Moustafa
-### 💻 Full-Stack Mobile & Desktop App Developer
-**Android | iOS | macOS | Windows**
+### 💻 Full-Stack Mobile, Desktop & Game Server Developer
+**Android | iOS | macOS | Windows | FiveM & RedM Architect**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding-gif" width="420"/>
@@ -9,12 +9,20 @@
 ---
 
 ## 👨‍💻 About Me
-- 📱 **Cross-Platform Expert:** Building high-performance, native-like applications for Mobile (Android & iOS) and Desktop (macOS & Windows).
-- ⚙️ **Full-Stack Capabilities:** Designing robust backend systems, RESTful APIs, and optimizing relational databases.
-- 💡 **Problem Solver:** Focused on clean architecture, state management, and delivering seamless user experiences.
+- 📱 **Cross-Platform Expert:** Building high-performance, native-like applications for Mobile (Android & iOS) and Desktop (macOS & Windows) using Flutter.
+- 🎮 **Game Server Developer:** Specialized in developing, optimizing, and scripting multiplayer servers for **FiveM** and **RedM**.
+- ⚙️ **Full-Stack Capabilities:** Designing robust backend systems, RESTful APIs, and managing optimized relational databases.
+- 💡 **Problem Solver:** Focused on clean architecture, custom framework scripts, and delivering seamless performance.
 
 👀 **Profile Views:**  
 ![Profile views](https://komarev.com/ghpvc/?username=AhmedMoustafaApps&label=Profile%20views&color=0e75b6&style=flat-square)
+
+---
+
+## 🕹️ Multiplayer Game Server Expertise
+- 🛠️ **FiveM & RedM Scripting:** Writing custom, highly-optimized scripts from scratch and modding existing frameworks (QB-Core, ESX, VORP).
+- 🗄️ **Database Integration:** Linking complex server mechanics, player data, and inventories smoothly with **MySQL/MariaDB**.
+- ⚡ **Performance Optimization:** Debugging resource-heavy scripts to eliminate server lag and reduce MS resmon usage.
 
 ---
 
@@ -32,17 +40,17 @@
 
 ### ⚙️ Backend, Scripting & Databases
 <p align="left">
+  <a href="https://www.lua.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="45" height="45"/>
+  </a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  </a>&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
   </a>&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.lua.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt="Lua" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
   </a>
 </p>
 
